@@ -18,5 +18,4 @@ else:
     print("Error: Invalid operation. Please use +, -, *, or /")
     exit()
 
-# Display the result
 print(f"{num1} {operation} {num2} = {result}")
